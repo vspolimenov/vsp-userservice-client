@@ -1,0 +1,1 @@
+# vsp-userservice-client
